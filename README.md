@@ -1,9 +1,11 @@
 git clone <repository-url>
-2. Open the project folder
+
+2. Open the project folder: 
 cd FastAPI_Student_CRUD
-3. Create a virtual environment
+
+4. Create a virtual environment
 python -m venv venv
-4. Activate the virtual environment
+5. Activate the virtual environment
 
 Windows PowerShell:
 
