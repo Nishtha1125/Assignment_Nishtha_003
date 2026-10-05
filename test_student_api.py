@@ -42,7 +42,7 @@ def test_update_student():
             "id": 100,
             "name": "Updated Student",
             "age": 22,
-            "course": "MCA",
+            "course": "BSC",
             "email": "updated@gmail.com"
         }
     )
